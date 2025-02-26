@@ -189,7 +189,7 @@ MIT
 
 ## Author
 
-@Streen9
+[@streen9](https://github.com/Streen9)
 
 ## Contributing
 
