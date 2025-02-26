@@ -4,8 +4,8 @@ A powerful server implementation that enables Claude AI to interact with React a
 
 ## Sample Usage
 
-[Markdown Editor/Viewer By Claude](https://claude.ai/share/f68940f1-97cd-41df-9c14-f63dc6fb9faf)
-[API Tester By Claude](https://claude.ai/share/b0b3943c-5c90-4b8d-8613-e76eaa243407)
+- [Markdown Editor/Viewer By Claude](https://claude.ai/share/f68940f1-97cd-41df-9c14-f63dc6fb9faf)
+- [API Tester By Claude](https://claude.ai/share/b0b3943c-5c90-4b8d-8613-e76eaa243407)
 
 
 ## Overview
