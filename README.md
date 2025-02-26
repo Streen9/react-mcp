@@ -1,4 +1,4 @@
-# React MCP (Model Context Protocol) Server
+# React MCP (Model Context Protocol)
 
 A powerful server implementation that enables Claude AI to interact with React applications through the Model Context Protocol.
 
