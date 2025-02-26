@@ -1,5 +1,7 @@
 # React MCP (Model Context Protocol)
 
+[![smithery badge](https://smithery.ai/badge/@Streen9/react-mcp)](https://smithery.ai/server/@Streen9/react-mcp)
+
 A powerful server implementation that enables Claude AI to interact with React applications through the Model Context Protocol.
 
 ## Sample Usage
