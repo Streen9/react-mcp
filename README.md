@@ -61,6 +61,15 @@ This server implements the Model Context Protocol, providing Claude with the abi
 
 ## Installation
 
+### Installing via Smithery
+
+To install React MCP for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Streen9/react-mcp):
+
+```bash
+npx -y @smithery/cli install @Streen9/react-mcp --client claude
+```
+
+### Manual Installation
 1. Clone this repository
 2. Install dependencies:
 
